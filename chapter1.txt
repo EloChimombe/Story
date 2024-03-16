@@ -1,0 +1,12 @@
+It was the best of times, it was the worst of times.
+
+yea it was the best of times
+
+keyframes animateWave {
+  0% {
+    background-position-x: 1000px;
+  }
+  100% {
+    background-position-x: 0px;
+  }
+}
